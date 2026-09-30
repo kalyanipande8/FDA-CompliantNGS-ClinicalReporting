@@ -1,0 +1,4 @@
+pos_0based	ref	alt	gene	aa_change	class
+780	T	G	EGFR	p.L858R	hotspot
+25	C	A	intergenic	-	passenger
+1182	A	G	intergenic	-	passenger

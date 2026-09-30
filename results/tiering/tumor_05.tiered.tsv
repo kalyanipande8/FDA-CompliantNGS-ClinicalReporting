@@ -1,0 +1,3 @@
+sample_id	chrom	pos_1based	ref	alt	gene	aa_change	consequence	tier	evidence
+tumor_05	synthetic_panel_ref	1307	T	C	KRAS	-	coding_variant_other	III	Variant falls within a reportable gene region but does not match a curated actionable hotspot; insufficient evidence for clinical significance without orthogonal review.
+tumor_05	synthetic_panel_ref	1441	G	A	TP53	p.R175H	hotspot_missense	II	TP53 R175H is a recurrent, well-characterized hotspot loss-of-function mutation with prognostic significance and relevance to clinical trial eligibility, without a single FDA-approved TP53-targeted therapy.

@@ -1,0 +1,2 @@
+sample_id	chrom	pos_1based	ref	alt	gene	aa_change	consequence
+tumor_01	synthetic_panel_ref	1558	T	A	TP53	-	coding_variant_other

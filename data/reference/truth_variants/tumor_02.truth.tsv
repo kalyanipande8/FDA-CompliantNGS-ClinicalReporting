@@ -1,0 +1,3 @@
+pos_0based	ref	alt	gene	aa_change	class
+1440	G	A	TP53	p.R175H	hotspot
+294	G	A	intergenic	-	passenger

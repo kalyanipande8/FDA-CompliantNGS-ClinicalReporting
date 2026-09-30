@@ -1,0 +1,5 @@
+gene	start	end	hotspot_pos	hotspot_ref	hotspot_alt	hotspot_aa_change
+BRAF	0	450	210	T	A	p.V600E
+EGFR	450	900	780	T	G	p.L858R
+KRAS	900	1350	945	G	A	p.G12D
+TP53	1350	1800	1440	G	A	p.R175H

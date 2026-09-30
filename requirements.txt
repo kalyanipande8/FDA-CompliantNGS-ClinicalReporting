@@ -1,0 +1,5 @@
+# Python dependencies for local execution/testing.
+# data/generate_synthetic_reads.py and scripts/*.py use only the Python
+# standard library and have NO third-party dependencies -- pytest is the
+# only external package needed, and only to run tests/test_pipeline.py.
+pytest>=7.0

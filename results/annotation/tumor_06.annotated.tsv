@@ -1,0 +1,4 @@
+sample_id	chrom	pos_1based	ref	alt	gene	aa_change	consequence
+tumor_06	synthetic_panel_ref	26	C	A	BRAF	-	coding_variant_other
+tumor_06	synthetic_panel_ref	781	T	G	EGFR	p.L858R	hotspot_missense
+tumor_06	synthetic_panel_ref	1183	A	G	KRAS	-	coding_variant_other

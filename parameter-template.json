@@ -1,0 +1,22 @@
+{
+  "samples_manifest": {
+    "description": "S3 URI to a TSV manifest with columns tumor_sample, normal_sample",
+    "optional": false
+  },
+  "reads_dir": {
+    "description": "S3 URI prefix containing per-sample paired-end FASTQ files named {sample}_R1.fastq / {sample}_R2.fastq",
+    "optional": false
+  },
+  "reference": {
+    "description": "S3 URI to the reference FASTA (panel or genome) used for alignment and variant calling",
+    "optional": false
+  },
+  "gene_model": {
+    "description": "S3 URI to a TSV gene/hotspot model used for panel annotation",
+    "optional": false
+  },
+  "outdir": {
+    "description": "Output location for results (HealthOmics stages this to the run's output S3 location)",
+    "optional": true
+  }
+}

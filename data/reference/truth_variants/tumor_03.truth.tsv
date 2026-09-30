@@ -1,0 +1,3 @@
+pos_0based	ref	alt	gene	aa_change	class
+945	G	A	KRAS	p.G12D	hotspot
+1478	A	G	intergenic	-	passenger

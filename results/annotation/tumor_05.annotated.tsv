@@ -1,0 +1,3 @@
+sample_id	chrom	pos_1based	ref	alt	gene	aa_change	consequence
+tumor_05	synthetic_panel_ref	1307	T	C	KRAS	-	coding_variant_other
+tumor_05	synthetic_panel_ref	1441	G	A	TP53	p.R175H	hotspot_missense
